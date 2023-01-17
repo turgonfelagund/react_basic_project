@@ -11,4 +11,6 @@
 
 -props
 
+### JSX
+
 ### Importanción de módulos y archivos
