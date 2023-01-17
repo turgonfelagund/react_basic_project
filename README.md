@@ -4,13 +4,13 @@
 
 ### Estructura de un proyecto
 
-### Componentes
+### JSX
+
+### Componentes:
 -Creación
 
 -Renderización
 
 -props
-
-### JSX
 
 ### Importanción de módulos y archivos
