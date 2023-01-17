@@ -6,7 +6,9 @@
 
 ### Componentes
 -Creación
+
 -Renderización
+
 -props
 
 ### Importanción de módulos y archivos
